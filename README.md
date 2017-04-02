@@ -4,4 +4,4 @@
 ## 写网页
  1.kpl
 ## lOOK
- 点击预览
+ 点击https://liuliulove.github.io/bolg2017/预览
